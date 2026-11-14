@@ -1,0 +1,6 @@
+allowBuilds:
+  '@nestjs/core': false
+  bcrypt: true
+  es5-ext: false
+  esbuild: false
+  msgpackr-extract: false
